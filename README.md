@@ -17,5 +17,10 @@
   </a>
 </p>
 
+#### This is a clone repository of [AnyDLBot](https://github.com/SpEcHIDe/AnyDLBot)
 #### A simple file or media rename bot with permanent thumbnail support.
 
+### Credits 
+
+* [Pyrogram](https://github.com/pyrogram/pyrogram)
+* [Shrimadhav UK](https://github.com/SpEcHIDe)
