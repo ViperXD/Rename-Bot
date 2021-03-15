@@ -33,8 +33,15 @@
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
       "required": false
-    }
-  },
+    },
+    "TIME_LIMIT": {
+      "description": "For time to next process",
+      "value":"0"
+    },
+    "UPDATE_CHANNEL": {
+      "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
+      "required": false
+  }
   "addons": [
     {
     "plan": "heroku-postgresql",
