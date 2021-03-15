@@ -1,17 +1,18 @@
 class script(object):
-    START_TEXT = """
-Hello {} , I'am a simple file or media rename bot with permanent thumbnail support.
+    START_TEXT = """Hai,{}
 
-Made by @FayasNoushad
+<code>I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By: @VKProjects</b>
+
+Press help button which is available at the bottom to know how to use me."""
 """
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     DOWNLOAD_START = "<code>Downloading To My server Please Wait...</code>"
     UPLOAD_START = "<code>Downloaded Successfully! Now I am Uploading to Telegram...</code>"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank you for Using Me</b>"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank you for Using Me😀 Join ON @VKPROJECTS</b>"
     SAVED_THUMB = "Thumbnail Saved ✅ This Is Permanent"
     DEL_THUMB = "Thumbnail cleared succesfully!"
-    NO_THUMB = "No thumbnails found!"
-    CUSTOM_CAPTION_UL_FILE = "<b>Join :- @FayasNoushad</b>"
+    NO_THUMB = "No thumbnails found!🤒"
+    CUSTOM_CAPTION_UL_FILE = "<b>Join :- @VkProjects</b>"
     HELP_USER = """<b>Hey! Here you can know how to use me</b>, 
     
 <tt>You Need help ?</tt>
