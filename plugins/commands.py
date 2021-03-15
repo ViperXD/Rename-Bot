@@ -91,3 +91,6 @@ async def force_name(bot, message):
         reply_to_message_id=message.reply_to_message.message_id,
         reply_markup=ForceReply(True)
     )
+@FayasNoushad.on_message(filters.command(["about"]))
+async def about(bot, update):
+    await bot.send_message(chat_id=update.chat.id, text=script.ABOUT_TEXT, parse_mode="html", disable_web_page_preview=True, reply_to_message_id=update.message_id)
