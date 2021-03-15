@@ -18,12 +18,15 @@ Made by @FayasNoushad
     
 1.◽<b>Send me any Telegram File or Video.</b>
 
-2.◽<b>Reply to that message with</b> <code>/rename New file name.extnsion</code> (custom thumbnail support) (it will UPLOAD AS FILE)
+<b><u>Set Thumbnail</u></b>
+2.◽ Send a photo to make it as custom thumbnail.
 
-3.◽<b>Reply to that message with</b> <code>/rename_video New file name.extensiom</code> (Custom Thumbnail support) (it will UPLOAD AS STREAMBLE VIDEO)
+<b><u>Deleting Thumbnail</u></b>
+3.◽ Send /delthumb to deleting thumbnail.
 
-4.◽<b>Send A Photo to make it as permanent Thumbnail</b>   
- 
+<b><u>Show Thumbnail</u></b>
+4.◽ Send /showthumb for view current thumbnail.
+
 <b>❤️ Made With Love:======= </b> @VkProjects .
 
 
@@ -35,10 +38,15 @@ Made by @FayasNoushad
     FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for using me 😌😉....</code>"
     FREE_USER_LIMIT_Q_SZE = "Sorry Friend, Free users can only 1 request per {} minutes. Please try again after {} seconds later."
     BANNED_USER_TEXT = "<code>You are Banned!</code>"
-    IFLONG_FILE_NAME = "Limits of telegram file or media name is {}."
+    IFLONG_FILE_NAME = ""File Name limit allowed by Telegram is {} characters.
+The given file name has {} characters.
+
+<b>Short your file name please.</b>
+©️ <code>@VKPROJECTS</code>
+Please short your file name and try again!"
     ABOUT_TEXT = ABOUT = """Hi {},
 
-🤖 My Name: [Renamer Bot](t.me/RenamerTGXBOT)
+🤖 My Name: [Renamer Bot](t.me/RenamerVKBOT)
     
 📝 Language: [Python 3](https://www.python.org/)
 
