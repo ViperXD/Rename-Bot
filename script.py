@@ -4,7 +4,6 @@ class script(object):
 <code>I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By: @VKProjects</b>
 
 Press help button which is available at the bottom to know how to use me."""
-"""
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     DOWNLOAD_START = "<code>Downloading To My server Please Wait...</code>"
     UPLOAD_START = "<code>Downloaded Successfully! Now I am Uploading to Telegram...</code>"
