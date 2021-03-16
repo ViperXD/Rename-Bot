@@ -38,12 +38,12 @@ Press help button which is available at the bottom to know how to use me."""
     FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for using me 😌😉....</code>"
     FREE_USER_LIMIT_Q_SZE = "Sorry Friend, Free users can only 1 request per {} minutes. Please try again after {} seconds later."
     BANNED_USER_TEXT = "<code>You are Banned!</code>"
-    IFLONG_FILE_NAME = ""File Name limit allowed by Telegram is {} characters.
+    IFLONG_FILE_NAME = """File Name limit allowed by Telegram is {} characters.
 
 <b>Short your file name please.</b>
 ©️ <code>@VKPROJECTS</code>
 Please short your file name and try again!"
-    ABOUT_TEXT = ABOUT = ""Hi {},
+    ABOUT_TEXT = ABOUT = """Hi {},
 
 🤖 My Name: [Renamer Bot](t.me/RenamerVKBOT)
     
