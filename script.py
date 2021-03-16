@@ -43,7 +43,7 @@ Press help button which is available at the bottom to know how to use me."""
 <b>Short your file name please.</b>
 ©️ <code>@VKPROJECTS</code>
 Please short your file name and try again!"
-    ABOUT_TEXT = ABOUT = ""Hi {},
+    ABOUT_TEXT = ABOUT = """"Hi {},
 
 🤖 My Name: [Renamer Bot](t.me/RenamerVKBOT)
     
