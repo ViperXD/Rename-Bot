@@ -43,7 +43,9 @@ Press help button which is available at the bottom to know how to use me."""
 <b>Short your file name please.</b>
 ©️ <code>@VKPROJECTS</code>
 Please short your file name and try again!"
-    ABOUT_TEXT = ABOUT = """**MY DETAILS :**
+    
+   ABOUT_TEXT = ABOUT = """**MY DETAILS :**
+
 🤖 My Name: [Renamer Bot](t.me/Renamer_PROBOT)
     
 📝 Language: [Python 3](https://www.python.org/)
