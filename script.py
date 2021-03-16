@@ -39,7 +39,6 @@ Press help button which is available at the bottom to know how to use me."""
     FREE_USER_LIMIT_Q_SZE = "Sorry Friend, Free users can only 1 request per {} minutes. Please try again after {} seconds later."
     BANNED_USER_TEXT = "<code>You are Banned!</code>"
     IFLONG_FILE_NAME = ""File Name limit allowed by Telegram is {} characters.
-The given file name has {} characters.
 
 <b>Short your file name please.</b>
 ©️ <code>@VKPROJECTS</code>
