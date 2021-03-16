@@ -59,5 +59,4 @@ Please short your file name and try again!"
 
 ⚖️ Credit: `Everyone in this journey`
 
-🌎 Server: [HEROKU](https://heroku.com)
-"""
+🌎 Server: [HEROKU](https://heroku.com)"""
